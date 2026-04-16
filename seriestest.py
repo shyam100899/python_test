@@ -1,5 +1,6 @@
 import pandas as pd
 
-s =
+s = pd.series[1,2,3,4]
+print(s)
 
 
